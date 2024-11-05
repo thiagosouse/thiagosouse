@@ -8,8 +8,8 @@ Sou *estudante do ensino médio* no *Campus Maranguape, onde estou cursando o **
 
 - 🌱 *Atualmente Aprendendo*: HTML, Java e Python 
 - 🔭 *Atualmente Trabalhando Em*: Atividades em Java
-- 😀 *Passatempos*: Jogar e assistir futebol e passar 2 horas na academia
-- 💬 *Fato Divertido*: Sou viciado em academia 😄
+- 😀 *Passatempos*: futebol e academia
+
 
 
 ---
